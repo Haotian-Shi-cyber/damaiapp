@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sapphire">#FF4169E1</color>
+    <color name="cornflower_blue">#FF6495ED</color>
+    <color name="light_red">#FFFF3232</color>
+    <color name="sea_green">#FF3CB371</color>
+</resources>

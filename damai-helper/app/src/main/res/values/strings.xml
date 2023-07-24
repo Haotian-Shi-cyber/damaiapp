@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">大麦助手</string>
+    <string name="desc">大麦APP抢票助手</string>
+    <string name="damai_app_package_name">cn.damai</string>
+    <string name="damai_app_not_installed">未安装大麦</string>
+    <string name="edit_time">场次</string>
+    <string name="edit_time_hint">请输入场次</string>
+    <string name="edit_ticket">票档</string>
+    <string name="edit_ticket_hint">请输入票档</string>
+    <string name="start_server">开始</string>
+    <string name="stop_server">停止</string>
+    <string name="tip">➊ 开启大麦助手的无障碍服务和悬浮窗权限（要保持无障碍服务开启，请开启开机自启和后台活动权限）\n➋ 输入场次、票档（输入关键词即可，例如：周六、999。仅有一场演出时可忽略场次）\n➌ 点击开始按钮后会自动启动大麦APP，请进入到演唱会的抢票界面\n➍ ⚠ 点击倒计时后面的抢票攻略，然后设置本次实名观演人\n➎ 实名观演人设置完成后，返回到抢票界面，点击悬浮按钮即可开始/暂停抢票\n➏ 开始抢票后不要操作手机，不要离开抢票界面，不要按电源键锁屏</string>
+    <string name="open_setting">去设置</string>
+    <string name="accessibility_service_label">🍀大麦助手🍀</string>
+    <string name="start_check">▶</string>
+    <string name="stop_check">◉</string>
+    <string name="submit_order">提交订单</string>
+    <string name="about_to_start">即将开抢</string>
+    <string name="ok">确定</string>
+</resources>
